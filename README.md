@@ -1,2 +1,1 @@
-# C28SARef
-Teacher Reference
+# Tablet-SPCK-PRO-C28-Reference-Code
